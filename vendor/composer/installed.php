@@ -1,12 +1,13 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => 'No version set (parsed as 1.0.0)',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
+      0 => '9999999-dev',
     ),
-    'reference' => NULL,
+    'reference' => '4dfa62e424d92966ac730a577c5f1bdb78cd301d',
     'name' => 'smalls/watermark-api',
   ),
   'versions' => 
@@ -74,21 +75,22 @@
     ),
     'smalls/video-tools' => 
     array (
-      'pretty_version' => '1.2.3',
-      'version' => '1.2.3.0',
+      'pretty_version' => '1.2.4',
+      'version' => '1.2.4.0',
       'aliases' => 
       array (
       ),
-      'reference' => '5d757727f1f2eeda6f13a81e3d28bd655b8e04fc',
+      'reference' => 'c9ee0168e5d1536b6b90196b52b0aecca141015d',
     ),
     'smalls/watermark-api' => 
     array (
-      'pretty_version' => 'No version set (parsed as 1.0.0)',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
+        0 => '9999999-dev',
       ),
-      'reference' => NULL,
+      'reference' => '4dfa62e424d92966ac730a577c5f1bdb78cd301d',
     ),
     'symfony/polyfill-intl-idn' => 
     array (
