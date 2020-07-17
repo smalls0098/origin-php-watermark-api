@@ -1,0 +1,8 @@
+/.git
+/.idea
+/vendor
+composer.lock
+*.log
+/tests/proxy.php
+/log
+composer.phar

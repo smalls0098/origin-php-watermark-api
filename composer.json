@@ -1,0 +1,25 @@
+{
+    "name": "smalls/watermark-api",
+    "description": "短视频去水印API",
+    "type": "library",
+    "keywords": [
+        "smalls",
+        "watermark-api"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Smalls",
+            "email": "smalls0098@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">= 7.0",
+        "smalls/video-tools": "^1.2"
+    },
+    "autoload": {
+      "psr-4": {
+        "smalls\\app\\": "app"
+      }
+    }
+}
