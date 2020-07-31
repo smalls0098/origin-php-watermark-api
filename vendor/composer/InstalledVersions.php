@@ -20,7 +20,7 @@ private static $installed = array (
     array (
       0 => '9999999-dev',
     ),
-    'reference' => '4dfa62e424d92966ac730a577c5f1bdb78cd301d',
+    'reference' => '391dcd3eb86db4e06b36c5a7038a3a155c4eccb5',
     'name' => 'smalls/watermark-api',
   ),
   'versions' => 
@@ -88,12 +88,12 @@ private static $installed = array (
     ),
     'smalls/video-tools' => 
     array (
-      'pretty_version' => '1.2.4',
-      'version' => '1.2.4.0',
+      'pretty_version' => '1.3.1',
+      'version' => '1.3.1.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'c9ee0168e5d1536b6b90196b52b0aecca141015d',
+      'reference' => '5a59406078b2e4254dd3ca91c2a779737c8544e8',
     ),
     'smalls/watermark-api' => 
     array (
@@ -103,7 +103,7 @@ private static $installed = array (
       array (
         0 => '9999999-dev',
       ),
-      'reference' => '4dfa62e424d92966ac730a577c5f1bdb78cd301d',
+      'reference' => '391dcd3eb86db4e06b36c5a7038a3a155c4eccb5',
     ),
     'symfony/polyfill-intl-idn' => 
     array (

@@ -13,12 +13,10 @@ use Smalls\VideoTools\Exception\ErrorVideoException;
  **/
 class KuaiShouLogic extends Base
 {
-
-    private $match;
+    
     private $contents;
 
     /**
-     * 多了可能是短时间kuaishou屏蔽IP
      * @throws ErrorVideoException
      */
     public function setContents()
@@ -39,7 +37,7 @@ class KuaiShouLogic extends Base
         $contents    = $this->post('http://api.gifshow.com/rest/n/tokenShare/info/byText', $data, [
             'User-Agent' => 'kwai-android',
         ]);
-        if (isset($contents['result']) && $contents['result'] == 50) {
+        if (isset($contents['result']) && $contents['result'] != 1) {
             throw new ErrorVideoException($contents['error_msg']);
         }
         $this->contents = $contents;
