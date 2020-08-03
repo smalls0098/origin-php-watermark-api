@@ -404,17 +404,17 @@
         },
         {
             "name": "smalls/video-tools",
-            "version": "1.3.2",
-            "version_normalized": "1.3.2.0",
+            "version": "1.3.4",
+            "version_normalized": "1.3.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/smalls0098/video-tools.git",
-                "reference": "cf9f130c5a14f46fee33d2cafabf372317c66a79"
+                "reference": "ad75a2faa967c83367d21d62cc98c295025f54f0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/smalls0098/video-tools/zipball/cf9f130c5a14f46fee33d2cafabf372317c66a79",
-                "reference": "cf9f130c5a14f46fee33d2cafabf372317c66a79",
+                "url": "https://api.github.com/repos/smalls0098/video-tools/zipball/ad75a2faa967c83367d21d62cc98c295025f54f0",
+                "reference": "ad75a2faa967c83367d21d62cc98c295025f54f0",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -435,7 +435,7 @@
             "require-dev": {
                 "phpunit/phpunit": "^9.2"
             },
-            "time": "2020-08-03T05:17:01+00:00",
+            "time": "2020-08-03T05:27:57+00:00",
             "type": "library",
             "installation-source": "dist",
             "autoload": {
@@ -463,7 +463,7 @@
             ],
             "support": {
                 "issues": "https://github.com/smalls0098/video-tools/issues",
-                "source": "https://github.com/smalls0098/video-tools/tree/1.3.2"
+                "source": "https://github.com/smalls0098/video-tools/tree/master"
             },
             "install-path": "../smalls/video-tools"
         },
