@@ -20,7 +20,7 @@ $url = $_POST['url'];
 //$_POST | $_GET
 //这边要进行$url逻辑判断，判断是否是url地址等等，而且不能含有中文、违规的标点符号、表情等等
 if ($url == '') {
-    $url = 'https://v.douyin.com/JeoLRe4/';
+    $url = 'https://v.kuaishou.com/8qIlZu';
 }
 $watermarkObj = new WatermarkController();
 $result       = $watermarkObj->parseVideo($url);

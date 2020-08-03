@@ -3,7 +3,7 @@
 * 采用composer的自动加载类机制去注册app\controller
 * 我个人比较喜欢对象，不太喜欢什么都放在一个文件里面，所以可以根据我写的去写原生的会更简单
 
-## 作者声明
+## 作者博客
 * [作者的博客：www.smalls.vip](https://www.smalls.vip)
 
 ## 作者声明

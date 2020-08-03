@@ -7,7 +7,7 @@
     array (
       0 => '9999999-dev',
     ),
-    'reference' => '391dcd3eb86db4e06b36c5a7038a3a155c4eccb5',
+    'reference' => 'b10b7b18661a3a43a765eabe399173fb5b95c55a',
     'name' => 'smalls/watermark-api',
   ),
   'versions' => 
@@ -75,12 +75,12 @@
     ),
     'smalls/video-tools' => 
     array (
-      'pretty_version' => '1.3.1',
-      'version' => '1.3.1.0',
+      'pretty_version' => '1.3.2',
+      'version' => '1.3.2.0',
       'aliases' => 
       array (
       ),
-      'reference' => '5a59406078b2e4254dd3ca91c2a779737c8544e8',
+      'reference' => 'cf9f130c5a14f46fee33d2cafabf372317c66a79',
     ),
     'smalls/watermark-api' => 
     array (
@@ -90,7 +90,7 @@
       array (
         0 => '9999999-dev',
       ),
-      'reference' => '391dcd3eb86db4e06b36c5a7038a3a155c4eccb5',
+      'reference' => 'b10b7b18661a3a43a765eabe399173fb5b95c55a',
     ),
     'symfony/polyfill-intl-idn' => 
     array (
